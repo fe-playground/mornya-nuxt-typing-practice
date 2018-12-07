@@ -24,5 +24,9 @@ module.exports = {
     'vue/attributes-order': 'off',
     'vue/html-self-closing': 'off',
     'vue/order-in-components': 'off',
+    'vue/component-name-in-template-casing': 'off',
+    'vue/html-closing-bracket-spacing': 'off',
+    'vue/singleline-html-element-content-newline': 'off',
+    'vue/no-v-html': 'off',
   },
 }
